@@ -1,0 +1,21 @@
+h3{
+    display: inline;
+    margin-right: 20px;
+    color:coral;
+}
+div{
+    border: 2px solid black;
+    background-color: snow;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+body{
+    background-color: rgba(192, 192, 192, 0.335);
+    padding: 20px;
+}
+p{
+    color: cornflowerblue;
+}
+.h1{
+    text-align: center;
+}
